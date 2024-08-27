@@ -2,23 +2,23 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Phishing Analysis Home Lab</b>
+- <b>Phishing Analysis (Home Lab)</b>
   - [Introduction to Phishing](https://github.com/KaizenJS7/Introduction-to-Phishing/tree/main)
   - [Email Fundamentals](https://github.com/KaizenJS7/Email-Fundamentals)
-- <b>Network Security Home Lab</b>
+- <b>Network Security (Home Lab)</b>
   - [Name](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-- <b>Endpoint Security Home Lab</b>
+- <b>Endpoint Security (Home Lab)</b>
   - [Name](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Name](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Name](https://github.com/joshmadakor1/AD_PS)
   - [Name](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Security Information and Event Management (SIEM) </b>
+- <b>Security Information and Event Management (SIEM) (Home Lab) </b>
   - [Name](https://github.com/joshmadakor1/EncrypterPOC)
   - [Name](https://github.com/joshmadakor1/DecrypterPOC)
   - [Name](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Threat Intelligence</b>
+- <b>Threat Intelligence (Home Lab)</b>
   - [Name](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>Digital Forensics</b>
+- <b>Digital Forensics (Home Lab)</b>
  - [Name](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
 <h2> 🤳 Connect with me:</h2>
