@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Phishing Analysis Home Lab</b>
-  - [Name](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Introduction to Phishing](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Network Security Home Lab</b>
   - [Name](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Endpoint Security Home Lab</b>
