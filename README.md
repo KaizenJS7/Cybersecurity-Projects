@@ -4,6 +4,7 @@
 
 - <b>Phishing Analysis Home Lab</b>
   - [Introduction to Phishing](https://github.com/KaizenJS7/Introduction-to-Phishing/tree/main)
+  - [Email Fundamentals]()
 - <b>Network Security Home Lab</b>
   - [Name](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Endpoint Security Home Lab</b>
