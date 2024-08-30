@@ -7,6 +7,7 @@
   - [Email Fundamentals](https://github.com/KaizenJS7/Email-Fundamentals)
   - [Phishing Attack Types](https://github.com/KaizenJS7/Phishing-Attack-Types)
   - [Phishing Attack Techniques](https://github.com/KaizenJS7/Phishing-Attack-Techniques)
+  - [Email Analysis Methodology](https://github.com/KaizenJS7/Email-Analysis-Methodology/tree/main)
 - <b>Network Security (Home Lab)</b>
   - [Name](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Endpoint Security (Home Lab)</b>
