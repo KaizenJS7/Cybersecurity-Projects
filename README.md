@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Phishing Analysis (Home Lab)</b>
+- <b>Phishing Analysis</b>
   - [Email Header and Sender Analysis](https://github.com/KaizenJS7/Email-Header-and-Sender-Analysis-Hands-On-/tree/main)
   - [Email Authentication Methods](https://github.com/KaizenJS7/Email-Authentication-Methods-Hands-On-/tree/main)
   - [Email Content Analysis](https://github.com/KaizenJS7/Email-Content-Analysis/tree/main)
