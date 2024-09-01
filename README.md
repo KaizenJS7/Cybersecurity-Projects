@@ -3,12 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Phishing Analysis (Home Lab)</b>
-  - [Introduction to Phishing](https://github.com/KaizenJS7/Introduction-to-Phishing/tree/main)
-  - [Email Fundamentals](https://github.com/KaizenJS7/Email-Fundamentals)
-  - [Phishing Attack Types](https://github.com/KaizenJS7/Phishing-Attack-Types)
-  - [Phishing Attack Techniques](https://github.com/KaizenJS7/Phishing-Attack-Techniques)
-  - [Email Analysis Methodology](https://github.com/KaizenJS7/Email-Analysis-Methodology/tree/main)
-  - [Email Header and Sender Analysis (Hands On)](https://github.com/KaizenJS7/Email-Header-and-Sender-Analysis-Hands-On-/tree/main)
+  - [Email Header and Sender Analysis](https://github.com/KaizenJS7/Email-Header-and-Sender-Analysis-Hands-On-/tree/main)
+  - [Email Authentication Methods](https://github.com/KaizenJS7/Email-Authentication-Methods-Hands-On-/tree/main)
 - <b>Network Security (Home Lab)</b>
   - [Name](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Endpoint Security (Home Lab)</b>
