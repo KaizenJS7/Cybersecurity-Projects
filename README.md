@@ -3,9 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Phishing Analysis</b>
-  - [Email Header and Sender Analysis](https://github.com/KaizenJS7/Email-Header-and-Sender-Analysis-Hands-On-/tree/main)
-  - [Email Authentication Methods](https://github.com/KaizenJS7/Email-Authentication-Methods-Hands-On-/tree/main)
-  - [Email Content Analysis](https://github.com/KaizenJS7/Email-Content-Analysis/tree/main)
+  - [Phishing Analysis Hands On Challenge](https://github.com/KaizenJS7/Phishing-Analysis-Hands-On-Challenge)
+  - 
   - 
 - <b>Network Security (Home Lab)</b>
   - [Name](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
